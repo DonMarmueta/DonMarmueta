@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonMarmueta
 - 👀 I’m interested in learn something.
-- 🌱 I’m currently learning Java, Spring and AWS...
+- 🌱 I’m currently learning AWS, cyber security and python...
 
 
 <!---
